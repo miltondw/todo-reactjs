@@ -1,0 +1,13 @@
+@import './variable';
+
+div{
+    p{
+        color:red;
+    }
+}
+// formTask
+form{
+    display: grid;
+    justify-content: center;
+    margin: 1em;
+}
